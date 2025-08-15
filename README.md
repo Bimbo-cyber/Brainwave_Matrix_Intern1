@@ -40,4 +40,24 @@ GUI Framework: PyQt5 / Tkinter (depending on your implementation)
 
 PyQt5 – GUI
 
-SKILL GAINED
+SKILL GAINED:
+
+Malware Analysis – Understanding how malicious files behave and how to detect them.
+
+Sandboxing Techniques – Creating safe, isolated environments for running malware.
+
+Threat Detection – Implementing file scanning, hashing, and pattern matching methods.
+
+Python Programming – Building efficient backend detection logic.
+
+GUI Development – Designing user-friendly interfaces with PyQt5/Tkinter.
+
+Process & File Monitoring – Using tools like psutil to track system changes.
+
+Linux Security Tools – Leveraging Kali Linux's capabilities for security research.
+
+Cybersecurity Best Practices – Following safe and ethical testing protocols.
+
+AUTHOR
+Okunola Sakirat Abimbola
+Cybersecurity Intern
