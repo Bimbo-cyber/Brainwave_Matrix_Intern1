@@ -1,20 +1,10 @@
-Task: Malware Detection & Sandbox Environment Tool
+TASK: Malware Detection & Sandbox Environment Tool
  
  
-Overview:
+OVERVIEW:
+As part of my Cybersecurity Internship, This tool is designed to detect potential malware on a system,Provide a sandbox environment for safely analyzing malware samples,Monitor malware behavior in a controlled and isolated environment. The primary goal is to allow researchers, students, and cybersecurity enthusiasts to study malicious files without risking their main operating system or network security.
 
-This project was developed as part of my Cybersecurity Internship.
-The tool is designed to:
-
-Detect potential malware on a system.
-
-Provide a sandbox environment for safely analyzing malware samples.
-
-Monitor malware behavior in a controlled and isolated environment.
-
-The primary goal is to allow researchers, students, and cybersecurity enthusiasts to study malicious files without risking their main operating system or network security.
-
-Features:
+FEATURES:
 
 Malware Detection Engine
 
@@ -40,7 +30,7 @@ User-friendly graphical interface for ease of use.
 
 Built on Kali Linux to leverage built-in cybersecurity tools.
 
-Technology Stack:
+TOOLS USED:
 
 Operating System: Kali Linux
 
@@ -48,8 +38,6 @@ Programming Language: Python 3
 
 GUI Framework: PyQt5 / Tkinter (depending on your implementation)
 
-
-
 PyQt5 – GUI
 
-Virtualization/Sandbox Tools: (Optional) VirtualBox, Firejail, or Docker
+SKILL GAINED
