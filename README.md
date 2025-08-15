@@ -2,6 +2,7 @@ TASK: Malware Detection & Sandbox Environment Tool
  
  
 OVERVIEW:
+
 As part of my Cybersecurity Internship, This tool is designed to detect potential malware on a system,Provide a sandbox environment for safely analyzing malware samples,Monitor malware behavior in a controlled and isolated environment. The primary goal is to allow researchers, students, and cybersecurity enthusiasts to study malicious files without risking their main operating system or network security.
 
 FEATURES:
@@ -59,5 +60,7 @@ Linux Security Tools – Leveraging Kali Linux's capabilities for security resea
 Cybersecurity Best Practices – Following safe and ethical testing protocols.
 
 AUTHOR
+
 Okunola Sakirat Abimbola
+
 Cybersecurity Intern
